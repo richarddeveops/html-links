@@ -1,0 +1,10 @@
+HTML LINKS
+
+I learnt how to connect pages with the anchor element: <a href="page.html">Open page</a>. The href attribute contains the destination. Links can connect pages in the same folder, pages in another folder, external websites, email addresses, and sections of the same page.
+
+I practised building pages for About, Services, Contact, and FAQs, including navigation links and a link that moves back to the top of a page.
+
+Using the new things that you’ve learnt in HTML, rebuild a
+portfolio for yourself that can navigate to various pages like about you, your
+services and your contact information, also add functional links to your contact
+us page also. Include move to the top on all your pages
